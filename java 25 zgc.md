@@ -1,0 +1,1 @@
+they move as much of their work as possible from the application’s threads to separate GC threads
