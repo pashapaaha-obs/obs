@@ -1,0 +1,3 @@
+Автор книги – Дэвид Н. Бланк-Эдельман – специалист по эксплуатации информационных систем с 40-летним опытом
+
+Классические работы по SRE [«Site Reliability Engineering. Надежность и безотказность как в Google»](https://www.piter.com/product/site-reliability-engineering-nadezhnost-i-bezotkaznost-kak-v-google?utm_source=habr&utm_medium=post&utm_campaign=oreilly&utm_content=sre-nadezhnost&utm_term=book)
