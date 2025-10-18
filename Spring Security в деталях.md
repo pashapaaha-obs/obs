@@ -1,3 +1,5 @@
+https://www.youtube.com/playlist?list=PLs_aLxm3VDLu9ghcQhTHOT84zmqLgAwdL
+
 3 этапа предоставления доступа
 1. идентификация
 2. аутентификация
