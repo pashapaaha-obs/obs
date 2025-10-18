@@ -24,3 +24,5 @@ SecurityFilterChain
 AuthenticationManager обращается к AuthenticationProvider, который находит пользователя в своём источнике данных(UserDetailService) и проверяет его. Провайдеров может быть несколько в цепочке
 
 В реализации провайдера по-умолчанию (DaoAuthenticationProvider) пользователь ищется в базе данных по его username
+
+После этих действий фильтр сохраняет результат в контексте безопасности 
